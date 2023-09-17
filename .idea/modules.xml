@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apna College.iml" filepath="$PROJECT_DIR$/Apna College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditonal_statements/Conditonal_statements.iml" filepath="$PROJECT_DIR$/Conditonal_statements/Conditonal_statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables_and_DataStructures/Variables_and_DataStructures.iml" filepath="$PROJECT_DIR$/Variables_and_DataStructures/Variables_and_DataStructures.iml" />
+    </modules>
+  </component>
+</project>
