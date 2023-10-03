@@ -3,7 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Apna College.iml" filepath="$PROJECT_DIR$/Apna College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_2D/Array_2D.iml" filepath="$PROJECT_DIR$/Array_2D/Array_2D.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditonal_statements/Conditonal_statements.iml" filepath="$PROJECT_DIR$/Conditonal_statements/Conditonal_statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions_and_methods/Functions_and_methods.iml" filepath="$PROJECT_DIR$/Functions_and_methods/Functions_and_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" filepath="$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/String.iml" filepath="$PROJECT_DIR$/Strings/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables_and_DataStructures/Variables_and_DataStructures.iml" filepath="$PROJECT_DIR$/Variables_and_DataStructures/Variables_and_DataStructures.iml" />
     </modules>
   </component>
