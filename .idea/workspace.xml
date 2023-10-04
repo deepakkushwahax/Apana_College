@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fee579b5-f16a-464f-bfbd-3282aa81836d" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Strings/src/SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/largest_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/uppercase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/src/shortest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/shortest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +72,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DEEPAK/IdeaProjects/Apna College/String/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.largest_String">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.uppercase">
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="String" />
@@ -110,13 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uppercase" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uppercase" />
         <item itemvalue="Application.largest_String" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.shortest" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
