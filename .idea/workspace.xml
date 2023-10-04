@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fee579b5-f16a-464f-bfbd-3282aa81836d" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Strings/src/uppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/StringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,9 +72,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DEEPAK/IdeaProjects/Apna College/String/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uppercase">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+  <component name="RunManager" selected="Application.StringCompression">
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCompression" />
       <module name="String" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCompression" />
         <item itemvalue="Application.uppercase" />
         <item itemvalue="Application.largest_String" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.shortest" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
