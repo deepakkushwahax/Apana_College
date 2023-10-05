@@ -11,6 +11,18 @@ public class Main {
             System.out.println("odd number");
         }
 
+
+        }
+
+        public static boolean getIthBit(int n, int i) {
+            int bitMask = 1 << i;
+            if ((n & bitMask) == 0) {
+                System.out.println('0');
+            } else {
+                //1  return 0;
+            }
+            // return 1;
+            return false;
         }
 
     public static void main(String[] args) {
@@ -33,8 +45,10 @@ public class Main {
         System.out.println(5>>6);
 
         // find given number is Even or Odd
-        oddEven(2);
-        oddEven(3);
+//        oddEven(2);
+//        oddEven(3);
+
+        System.out.println(getIthBit(10,3));
 
 
     }
