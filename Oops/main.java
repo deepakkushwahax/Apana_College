@@ -1,14 +1,30 @@
 public class main {
-    public static void Pattern(int n){
-        int num;
-        for (int i=1; i<num; i++){
-            for (int j=0; j>num-1-i; j--);
-        }
-        System.out.println("*");
-    }
-
     public static void main(String[] args) {
-        System.out.println(Pattern(5););
-
+        pen p1 = new pen();
+        p1.color("Blue");
+        System.out.println(p1.color);
     }
 }
+    class pen {
+        String color;
+        int tip;
+
+        void setColor(String newcolor) {
+            color = newcolor;
+        }
+
+        void setTip(int newTip) {
+            tip = newTip;
+        }
+
+
+    }
+    class student{
+    String name;
+    int age;
+    float percentage;
+
+    void calcPercentage(int phy, int chem, int math){
+        percentage = (phy+chem+math)/3;
+    }
+    }
