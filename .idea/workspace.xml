@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fee579b5-f16a-464f-bfbd-3282aa81836d" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Oops/src/Access_modifies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/src/Constructors_in_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/src/java_interitence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DEEPAK/IdeaProjects/Apna College/Oops/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Constructors_in_java">
+  <component name="RunManager" selected="Application.java_interitence">
     <configuration name="Constructors_in_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constructors_in_java" />
       <module name="Oops" />
@@ -102,20 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uppercase" />
-      <module name="String" />
+    <configuration name="java_interitence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_interitence" />
+      <module name="Oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_interitence" />
         <item itemvalue="Application.Constructors_in_java" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringCompression" />
-        <item itemvalue="Application.uppercase" />
       </list>
     </recent_temporary>
   </component>
