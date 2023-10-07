@@ -1,7 +1,9 @@
 public class java_interitence {
     public static void main(String[] args) {
-    fish shark = new fish();
-    shark.eat();
+        Fish shark = new Fish();
+        shark.swim();
+        Animals Elephant = new Animals();
+        Elephant.size();
     }
 }
 class Animals{
@@ -12,11 +14,13 @@ class Animals{
     void breath(){
         System.out.println("breath");
     }
-
+    void size(){
+        System.out.println("Sizes of the given Animals");
+    }
 }
-class fish extends Animals{
+class Fish extends Animals{
     int fins;
-    void swin(){
-        System.out.println("swin");
+    void swim(){
+        System.out.println("Fishes are swim in the water");
     }
 }
