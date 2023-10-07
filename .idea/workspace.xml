@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fee579b5-f16a-464f-bfbd-3282aa81836d" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oops/src/java_interitence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oops/src/java_interitence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/src/method_overloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,21 +71,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DEEPAK/IdeaProjects/Apna College/Oops/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.java_interitence (2)">
-    <configuration name="Constructors_in_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructors_in_java" />
-      <module name="Oops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Oops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.method_overloading (1)">
     <configuration name="java_interitence (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_interitence" />
       <module name="Oops" />
@@ -108,13 +93,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="method_overloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_overloading" />
+      <module name="Oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="method_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method_overloading" />
+      <module name="Oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.method_overloading (1)" />
+        <item itemvalue="Application.method_overloading" />
         <item itemvalue="Application.java_interitence (2)" />
         <item itemvalue="Application.java_interitence (1)" />
         <item itemvalue="Application.java_interitence" />
-        <item itemvalue="Application.Constructors_in_java" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
