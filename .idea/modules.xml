@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" filepath="$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/String.iml" filepath="$PROJECT_DIR$/Strings/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables_and_DataStructures/Variables_and_DataStructures.iml" filepath="$PROJECT_DIR$/Variables_and_DataStructures/Variables_and_DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
     </modules>
   </component>
 </project>
